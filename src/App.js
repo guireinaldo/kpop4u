@@ -1,13 +1,15 @@
 import Cabecalho from "./componentes/Cabecalho";
 import Lancamentos from "./componentes/Lancamentos";
 import MaisVendidos from "./componentes/MaisVendidos";
+import Rodape from "./componentes/Rodape";
 
 function App() {
   return (
     <div>
-      <Cabecalho></Cabecalho>
-      <Lancamentos></Lancamentos>
-      <MaisVendidos></MaisVendidos>
+      <Cabecalho />
+      <Lancamentos />
+      <MaisVendidos />
+      <Rodape />
     </div>
   );
 }
