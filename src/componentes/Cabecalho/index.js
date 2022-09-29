@@ -11,7 +11,7 @@ export default function Cabecalho() {
             <p className="cabecalho__item">Sobre Nós</p>
             <p className="cabecalho__item">Contato</p>
             <Person className="cabecalho__perfil" />
-            <Shopping className="cabecalho__carrinho" />
+            <ShoppingCart className="cabecalho__carrinho" />
         </div>
     )
 }

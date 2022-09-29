@@ -19,7 +19,7 @@ export default function Rodape() {
                     <Twitter className="rodape__icone" />
                     <Instagram className="rodape__icone" />
                     <Facebook className="rodape__icone" />
-                    <Youtube className="rodape__icone" />
+                    <YouTube className="rodape__icone" />
                     </div>
                 </div>
                 <div className="rodape__endereco">
