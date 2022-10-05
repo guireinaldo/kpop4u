@@ -8,7 +8,7 @@ export default function Cabecalho({ setMenuCategoriasAtivo, menuCategoriasAtivo 
             <p className="cabecalho__item">Início</p>
             <p className="cabecalho__item" onClick={() => setMenuCategoriasAtivo(!menuCategoriasAtivo)}>Categorias</p>
             <p className="cabecalho__item">Sobre Nós</p>
-            <p className="cabecalho__item">Contato</p>-
+            <p className="cabecalho__item">Contato</p>
             <Person className="cabecalho__perfil" />
             <ShoppingCart className="cabecalho__carrinho" />
         </div>
